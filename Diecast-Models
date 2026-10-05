@@ -1,0 +1,367 @@
+HL7747	1	Airbus	330-300	W	Asiana	DW	Korea	
+HZ-AIZ	2	Boeing	747-400	W	Saudi Arabian	DW	Saudi Arabia	
+CUSTOM	new_3	Boeing	737-800	N	Air Niugini	PANDA	Papua New Guinea	
+VH-QPA	4	Airbus	330-300	W	Qantas	DW	Australia	
+4R-ALB	5	Airbus	330-200	W	Sri Lankan	DW	Sri Lanka	
+HS-TLA	6	Airbus	340-500	W	Thai Airways	DW	Thailand	
+A6-EHE	7	AIrbus	340-600	W	Etihad	DW	UAE	
+A40-KC	8	Airbus	330-200	W	GulfAir	PX	Bahrain	
+A40-LH	9	Airbus	340-300	W	GulfAir	DW	Bahrain	
+CC-CQA	10	Airbus	340-300	W	LAN Chile	DW	Chile	
+NONE	11	Airbus	340-600	W	Lufthansa	DW	Germany	
+HA-TAS	12	Airbus	300-600	W	Thai Airways	DW	Thailand	
+PK-GIM	13	Boeing	MD11	W	Garuda Indonesia	GJ	Indonesia	
+VN-A343	14	Airbus	321-200	N	Vietnam Airlines	GJ	Vietnam	
+VN-A141	15	Boeing	777-200ER	W	Vietnam Airlines	GJ	Vietnam	
+9M-MRN	16	Boeing	777-200ER	W	Malaysia Airlines	DW	Malaysia	
+PK-GPH	17	Airbus	330-200	W	Garuda Indonesia	DW	Indonesia	
+RP-C7777	18	Boeing	777-300ER	W	Philippine Airlines	PPC	Philippines	
+(missing)	19	Boeing	777-300ER	W	Philippine Airlines	PPC	Philippines	
+RP-C3430	20	Airbus	340-300	W	Philippine Airlines	PPC	Philippines	
+RP-C3333	21	Airbus	330-300	W	Philippine Airlines	PPC	Philippines	
+G-VATL	22	Airbus	340-600	W	Virgin Atlantic	GJ	UK	
+N276WA	23	Boeing	MD11	W	Philippine Airlines	DW	Philippines	
+B-HQB	24	Airbus	340-600	W	Cathay Pacific	PX	Hong Kong	
+B-HUF	25	Boeing	747-400	W	Cathay Pacific	CX	Hong Kong	
+B-2343	26	Airbus	320-200	N	China Southern	DW	China	
+V8-RBH	27	Boeing	767-300	W	Royal Brunei	DW	Brunei	
+G-CIVX	28	Boeing	747-400	W	British Airways	GJ	UK	
+A7-BAA	29	Boeing	777-300ER	W	Qatar Airways	DW	Qatar	
+9K-AOB	30	Boeing	777-200ER	W	Kuwait Airways	GJ	Kuwait	
+PH-BVA	31	Boeing	777-300ER	W	KLM	GJ	Netherlands	
+N665US	32	Boeing	747-400	W	Delta Airlines	GJ	USA	
+JA8089	33	Boeing	747-400	W	JAL Japan Airlines	AV400	Japan	
+B-15401	34	Boeing	747-400	W	EVA Air	JETX	Taiwan	
+N14237	35	Boeing	737-800	N	Continental	DW	USA	
+N585HA	36	Boeing	767-300	W	Hawaiian Airlines	GJ	USA	
+RP-C8988	37	Airbus	320-200	N	ZestAir	GJ	Philippines	
+RP-C3240	38	Airbus	320-200	N	Cebu Pacific	PX	Philippines	
+HL7533	39	Boeing	777-300	W	Korean Air	DW	Korea	
+CS-MAE	40	Airbus	320-200	N	Air Macau	DW	Macau	
+CS-MAG	41	Airbus	321-200	N	Air Macau	DW	Macau	
+B-HYS	42	Airbus	320-200	N	Dragonair	DW	Hong Kong	
+B-16808	43	Boeing	737-800	N	China Airlines	GJ	Taiwan	
+NONE	44	Airbus	380-800	W	Singapore Airlines	DW	Singapore	
+A6-EDA	45	Airbus	380-800	W	Emirates	DW	UAE	
+B-KXG	46	Boeing	737-800	N	Hong Kong Express	PX	Hong Kong	
+NONE	47	Airbus	340-200	W	Philippine Airlines	DW	Philippines	
+F-OHPM	48	Airbus	340-300	W	Philippine Airlines	GJ	Philippines	
+F-OHPM	49	Airbus	340-300	W	Philippine Airlines	DW	Philippines	
+BLANK	50	Airbus	319-100	N	Blank Model	DW	Philippines	
+RP-C7778	new_51	Boeing	777-300ER	W	Philippine Airlines	AV400	Philippines	
+N751PR	52	Boeing	747-400	W	Philippine Airlines	PX	Philippines	
+RP-C7475	53	Boeing	747-400	W	Philippine Airlines	PX	Philippines	
+RP-C8168	54	Boeing	747-400	W	Philippine Airlines	AC	Philippines	
+RP-C801	55	Boeing	DC8	N	Philippine Airlines	GJ	Philippines	
+NONE	56	Boeing	DC10	W	Philippine Airlines	DW	Philippines	
+PI-C128	57	Boeing	DC3	N	Philippine Airlines	PPC	Philippines	
+PI-C342	58	Convair	C340	N	Philippine Airlines	PPC	Philippines	
+RP-C3030	59	DHC	Q400	N	Philippine Airlines	GJ	Philippines	
+RP-C3030	60	DHC	Q400	N	Philippine Airlines	GJ	Philippines	
+F-OHZM	61	Airbus	330-300	W	Philippine Airlines	DW	Philippines	
+F-OHZM	62	Airbus	330-300	W	Philippine Airlines	DW	Philippines	
+A6-ECI	63	Boeing	777-300	W	Emirates	GJ	UAE	
+A6-EKV	64	Airbus	330-200	W	Emirates	DW	UAE	Decal
+B-5341	65	Boeing	737-800	N	Air China	PX	China	
+JA8358	66	Boeing	767-300	W	ANA All Nippon	PX	Japan	
+VH-VQB	67	Airbus	320-200	N	Jetstar	AC	Australia	
+9V-SQH	68	Boeing	777-200ER	W	Singapore Airlines	PX	Singapore	
+9V-TAA	69	Airbus	320-200	N	Tiger Airways	PX	Singapore	
+RP-C8615	70	Airbus	320-200	N	Philippine Airlines	GJ	Philippines	
+RP-C3227	71	Airbus	320-200	N	Airphil Express	GJ	Philippines	
+RP-C7255	72	Airbus	72-500/600	N	Cebu Pacific	GJ	Philippines	
+A6-EMM	73	Boeing	777-300ER	W	Emirates	GJ	UAE	
+HL7491	74	Boeing	747-400	W	Korean Air	DW	Korea	
+RP-C8615	75	Airbus	320-200	N	Philippine Airlines	GJ	Philippines	70th Year Anniversary decal
+RP-C3331	76	Airbus	330-300	W	Philippine Airlines	PPC	Philippines	
+RP-C1240	new_77	Boeing	727-100	N	Philippine Airlines	AC	Philippines	
+RP-C9907	78	Airbus	321-200	N	Philippine Airlines	GJ	Philippines	
+RP-C7777	79	Boeing	777-300ER	W	Philippine Airlines	PPC	Philippines	
+RP-C7773	80	Boeing	777-300ER	W	Philippine Airlines	GJ	Philippines	75th Year Anniversary decal
+RP-C4107	81	Airbus	320-200	N	Cebu Pacific	GJ	Philippines	
+EI-CVN	new_82	Boeing	737-400	N	Philippine Airlines	MM	Philippines	60th Year Anniversary decal
+RP-C3501	83	Airbus	350-900	W	Philippine Airlines	GJ	Philippines	
+RP-C8783	84	Airbus	330-300	W	Philippine Airlines	GJ	Philippines	
+ZK-OKO	85	Boeing	777-300ER	W	Air New Zealand	JC	New Zealand	Snaug 
+ZK-OKR	86	Boeing	777-300ER	W	Air New Zealand	AP	New Zealand	
+ZK-NZD	87	Boeing	787-9	W	Air New Zealand	PX	New Zealand	
+RP-C9930	88	Airbus	321neo	N	Philippine Airlines	PX	Philippines	
+RP-C4118	89	Airbus	321neo	N	Cebu Pacific	GJ	Philippines	
+F-ONUI	90	Boeing	787-9	W	Air Tahiti Nui	GJ	Tahiti	
+B-1242	91	Boeing	787-9	W	China Southern	PX	China	
+9M-MAB	92	Airbus	350-900	W	Malaysia Airlines	GJ	Malaysia	
+B-LXA	93	Airbus	350-1000	W	Cathay Pacific	JC	Hong Kong	
+B-5961	94	Airbus	330-200	W	China Eastern	PX	China	
+ZK-OKT	95	Boeing	777-300ER	W	EVA Air	JC	Taiwan	ZK Rego
+N653UA	96	Boeing	767-300	W	United Airlines	DW	USA	
+TC-JRO	97	Airbus	321-200	N	Turkish Airlines	DW	Turkey	Eurobasket
+B-16103	98	Boeing	MD11	W	EVA Air	JETX	Taiwan	
+9M-XAA	99	Airbus	330-300	W	Air Asia X	DW	Malaysia	
+ZK-NHA	100	Airbus	320neo	N	Air New Zealand	JC	New Zealand	
+ZK-NNB	101	Airbus	321neo	N	Air New Zealand	PX	New Zealand	
+9V-SMU	102	Airbus	350-900	W	Singapore Airlines	NG	Singapore	
+VH-QPJ	103	Airbus	330-300	W	Qantas	PX	Australia	
+DQ-FAJ	104	Airbus	350-900	W	Fiji Airways	PX	Fiji	
+B-7877	105	Boeing	787-9	W	Air China	PX	China	
+CC-BGM	106	Boeing	787-9	W	LATAM	GJ	Chile	
+HZ-AK44	107	Boeing	777-300ER	W	Saudi Arabian	PX	Saudi Arabia	
+A6-ETH	108	Boeing	777-300ER	W	Etihad	AV400	UAE	
+RP-C3900	109	Airbus	330-900neo	W	Cebu Pacific	PX	Philippines	
+RP-C9901	110	Airbus	321-200	N	Philippine Airlines	GJ	Philippines	
+9M-MXA	111	Boeing	737-800	N	Malaysia Airlines	DW	Malaysia	
+9M-AGA	112	Airbus	320neo	N	AirAsia	GJ	Malaysia	
+RP-C3272	113	Airbus	320-200	N	Cebu Pacific	PX	Philippines	
+VH-VFF	114	Airbus	320-200	N	Jetstar	PX	Australia	
+9V-VQZ	115	Airbus	320-200	N	Jetstar Asia	JC	Singapore	
+JA08JJ	116	Airbus	320-200	N	Jetstar Japan	PX	Japan	
+9V-TRN	117	Airbus	320-200	N	Scoot	PX	Singapore	
+HL8322	118	Boeing	737-800	N	Jeju Air	JC	Korea	
+VH-EBG	119	Airbus	330-200	W	Qantas	GJ	Australia	
+VH-VXP	120	Boeing	737-800	N	Qantas	GJ	Australia	
+VH-VZC	121	Boeing	737-800	N	Qantas	GJ	Australia	
+VH-VXM	122	Boeing	737-800	N	Qantas	GJ	Australia	
+ZK-MCY	123	Airbus	72-500/600	N	Air New Zealand Link - Mount Cook Airlines	JC	New Zealand	
+ZK-MVB	124	Airbus	72-500/600	N	Air New Zealand Link - Mount Cook Airlines	JC	New Zealand	
+ZK-OXB	125	Airbus	320-200	N	Air New Zealand	PX	New Zealand	
+JA863J	126	Boeing	787-9	W	JAL Japan Airlines	NG	Japan	
+HS-THK	127	Airbus	350-900	W	Thai Airways	PX	Thailand	
+TC-LGA	128	Airbus	350-900	W	Turkish Airlines	PX	Turkey	
+B-58201	129	Airbus	321neo	N	Starlux	JC	Taiwan	
+HL8356	130	Airbus	321neo	N	Asiana	AC	Korea	
+V8-RBA	131	Airbus	320neo	N	Royal Brunei	GJ	Brunei	
+B-1288	132	Boeing	737-8MAX	N	Xiamen Air	JC	China	
+RP-C7280	133	Airbus	72-500/600	N	Cebu Pacific	GJ	Philippines	
+C-GHPQ	134	Boeing	787-8	W	Air Canada	GJ	Canada	
+N388HA	135	Airbus	330-200	W	Hawaiian Airlines	GJ	USA	
+N409UP	136	Boeing	757-200F	N	UPS	GJ	USA	
+B-HXK	137	Airbus	340-300	W	Cathay Pacific	CX	Hong Kong	
+A7-BEM	138	Boeing	777-300ER	W	Qatar Airways	PX	Qatar	
+A9C-FA	139	Boeing	787-9	W	GulfAir	PX	Bahrain	
+9K-AOC	140	Boeing	777-300ER	W	Kuwait Airways	PX	Kuwait	
+A40-SD	141	Boeing	787-9	W	Oman Air	PX	Oman	
+JA901A	142	Boeing	787-10	W	ANA All Nippon	JC	Japan	
+N17233	143	Boeing	737-800	N	United Airlines	GJ	USA	
+N12010	144	Boeing	787-10	W	United Airlines	JC	USA	
+N802AN	145	Boeing	787-8	W	American Airlines	GJ	USA	
+DQ-FAB	146	Boeing	737-8MAX	N	Fiji Airways	AC	Fiji	
+F-OZNC	147	Airbus	320-200	N	Aircalin	PX	New Caledonia	
+HL8082	148	Boeing	787-9	W	Korean Air	PX	Korea	
+ZK-OXA	149	Airbus	320-200	N	Air New Zealand	PX	New Zealand	
+B-18916	150	Airbus	350-900	W	China Airlines	PX	Taiwan	
+ZK-OKQ	151	Boeing	777-300ER	W	Air New Zealand	AV400	New Zealand	All Black
+ZK-OYB	152	Airbus	321neo	N	Air New Zealand	PX	New Zealand	
+VH-OQB	153	Airbus	380-800	W	Qantas	GJ	Australia	
+VH-YFC	154	Boeing	737-800	N	Virgin Australia	DW	Australia	
+VH-RQC	155	Boeing	737-800	N	Regional Express	GJ	Australia	
+9V-OJA	156	Boeing	787-9	W	Scoot	PX	Singapore	
+F-GZND	157	Boeing	777-300ER	W	Air France	PX	France	
+WRITTEN OFF	158	Boeing	737-800	N	Air Niugini	DW	Papua New Guinea	XXX
+ET-AUD	159	Boeing	787-9	W	Ethiopian Airlines	NG	Ethiopia	
+B-LPO	160	Airbus	320-200	N	Hong Kong Airlines	PX	Hong Kong	
+9M-XXU	161	Airbus	330-300	W	Air Asia X	PX	Malaysia	
+9V-OJA	162	Boeing	787-9	W	Scoot	JC	Singapore	
+ZK-NZE	163	Boeing	787-9	W	Air New Zealand	PX	New Zealand	
+B-KPP	164	Boeing	777-300ER	W	Cathay Pacific	JC	Hong Kong	
+9V-SWY	165	Boeing	777-300ER	W	Singapore Airlines	JC	Singapore	
+9V-SWT	166	Boeing	777-300ER	W	Singapore Airlines	PX	Singapore	
+VN-A818	167	Boeing	787-9	W	Bamboo Airways	GJ	Vietnam	
+RP-C3508	168	Airbus	350-900	W	Philippine Airlines	NG	Philippines	Love Bus
+RP-C3002	169	Airbus	300B4	W	Philippine Airlines	AC	Philippines	Love Bus
+RP-C3003	170	Airbus	300B4	W	Philippine Airlines	AC	Philippines	Love Bus
+EI-CVN	171	Boeing	737-400	N	Philippine Airlines	MM	Philippines	60 years anniversay decal
+RP-C3341	172	Airbus	330-300	W	Cebu Pacific	PX	Philippines	
+VH-OJH	173	Boeing	747-400	W	Qantas	DW	Australia	
+VH-NXD	174	Boeing	717-200	N	QantasLink	GJ	Australia	
+VH-ZNG	175	Boeing	787-9	W	Qantas	NG	Australia	
+B-8118	176	Airbus	330-300	W	Hainan Airlines	AC	China	
+A6-BMI	177	Boeing	787-10	W	Etihad	JC	UAE	
+N512DN	178	Airbus	350-900	W	Delta Airlines	NG	USA	
+EC-GUP	179	Airbus	340-300	W	Iberia	HO	Spain	
+RP-C2715	180	Boeing	757-200	N	Cebu Pacific	NG	Philippines	
+RP-C2714	181	Boeing	757-200	N	Cebu Pacific	NG	Philippines	City of Manila
+RP-C9938	182	Airbus	321neo	N	Philippine Airlines	NG	Philippines	
+JA826J	183	Boeing	787-8	W	Zipair	PX	Japan	
+VH-VKA	184	Boeing	787-8	W	Jetstar	AP	Australia	
+B-2338	185	Airbus	320-200	N	China Eastern	DW	China	
+RP-C8168	186	Boeing	747-400	W	Philippine Airlines	AC	Philippines	
+9M-LND	187	Boeing	737-800	N	Batik Air Malaysia	PX	Malaysia	
+RP-C8600	188	Airbus	319-100	N	Philippine Airlines	GJ	Philippines	
+B-1357	189	Boeing	787-9	W	Xiamen Air	NG	China	
+9V-STA	190	Airbus	310-300	W	Singapore Airlines	JC	Singapore	
+N889FD	191	Boeing	777F	W	Federal Express	GJ	USA	
+N103FE (erased)	192	Boeing	767-300F	W	Federal Express	GJ	USA	
+RP-C8191	193	Airbus	320-200	N	Philippines AirAsia	PX	Philippines	
+RP-C3030	194	DHC	Q400	N	Airphil Express	GJ	Philippines	
+ZK-OKR	195	Boeing	777-300ER	W	Air New Zealand	GJ	New Zealand	
+N2352U	196	Boeing	777-300ER	W	United Airlines	NG	USA	
+BLANK	197	Airbus	330-300	W	Blank Model	JC		
+VH-VFJ	198	Airbus	320-200	N	Jetstar	PX	Australia	
+RP-C3439	199	Airbus	340-300	W	Philippine Airlines	AV400	Philippines	Shepherd One
+JA616J	200	Boeing	767-300	W	JAL Japan Airlines	HO	Japan	
+JA8375	201	Airbus	300-600	W	JAS Japan Air System	AG	Japan	
+JA016D	202	Airbus	300B4	W	JAL Japan Airlines	AG	Japan	
+JA8458	203	Boeing	DC9	N	TDA Toa Domestic Airlines	AG	Japan	
+JA085RK	204	Boeing	737-800	N	JAL JTA Japan Transocean Air	AG	Japan	
+JA701J	205	Boeing	777-200ER	W	JAL Japan Airlines	AG	Japan	
+JA8981	206	Boeing	777-200	W	JAL Japan Airlines	AG	Japan	
+JA8101	207	Boeing	747-100	W	JAL Japan Airlines	AG	Japan	
+JA8140	208	Boeing	747-200	W	JAL Japan Airlines	AG	Japan	
+JA861J	209	Boeing	787-9	W	JAL Japan Airlines	AG	Japan	
+B-18212	210	Boeing	747-400	W	China Airlines	PX	Taiwan	
+B-KKA	211	Airbus	321neo	N	Hong Kong Express	PX	Hong Kong	
+B-5102	212	Boeing	737-900	N	Shenzhen Airlines	NG	China	
+9M-LRF	213	Boeing	737-8MAX	N	Batik Air Malaysia	NG	Malaysia	
+RP-C1509	214	Boeing	DC9	N	Cebu Pacific	TU	Philippines	City of Cebu
+VH-JQG	215	Airbus	320-200	N	Jetstar	PX	Australia	
+9K-ANA	216	Airbus	340-300	W	Kuwait Airways	HO	Kuwait	
+RP-C3030	217	DHC	Q400	N	Airphil Express	GJ	Philippines	
+VH-VKB	218	Boeing	787-8	W	Jetstar	PX	Australia	
+VH-VGF	219	Airbus	320-200	N	Jetstar	JC	Australia	
+RP-C3347	220	Airbus	330-300	W	Cebu Pacific	GJ	Philippines	
+RP-C3341	221	Airbus	330-300	W	Cebu Pacific	GJ	Philippines	
+VN-A618	222	Airbus	321neo	N	Vietnam Airlines	AC	Vietnam	
+V8-DLA	223	Boeing	787-8	W	Royal Brunei	HO	Brunei	Flexed wing mode
+A7-ALD	224	Airbus	350-900	W	Qatar Airways	PX	Qatar	
+HS-TGP	225	Boeing	747-400	W	Thai Airways	HE	Thailand	
+9V-SPG	226	Boeing	747-400	W	Singapore Airlines	HE	Singapore	
+VH-VFJ	227	Airbus	320-200	N	Jetstar	NG	Australia	
+RP-C7472	228	Boeing	747-400	W	Philippine Airlines	WW	Philippines	
+N207AE	229	Boeing	747-200	W	Philippine Airlines	AP	Philippines	
+RP-C7774	230	Boeing	777-300ER	W	Philippine Airlines	PX	Philippines	
+ZK-MVX	231	Airbus	72-500/600	N	Air New Zealand	JC	New Zealand	
+9M-MTJ	232	Airbus	330-300	W	Malaysia Airlines	PX	Malaysia	
+N741PR	233	Boeing	747-200	W	Philippine Airlines	PX	Philippines	
+VN-A891	234	Airbus	350-900	W	Vietnam Airlines	JC	Vietnam	
+B-304U	235	Airbus	350-900	W	Sichuan Airlines	JC	China	
+VH-UJK	236	Boeing	737-8MAX	N	Bonza	NG	Australia	
+NONE	237	Boeing	777-300ER	W	Swiss International Air Lines	PX	Switzerland	
+B-1069	238	Airbus	330-300	W	Beijing Capital Airlines	PX	China	
+9V-SFO	239	Boeing	747-400F	W	Singapore Airlines Cargo	PX	Singapore	
+9V-SJA	240	Airbus	340-300	W	Singapore Airlines	DW	Singapore	
+9V-SQC	241	Boeing	777-200	W	Singapore Airlines	DW	Singapore	
+9V-SYH	242	Boeing	777-300	W	Singapore Airlines	DW	Singapore	
+9V-SQJ	243	Boeing	747-200	W	Singapore Airlines	DW	Singapore	
+9V-SMT	244	Boeing	747-400	W	Singapore Airlines	DW	Singapore	
+9V-SMU	245	Boeing	747-400	W	Singapore Airlines	DW	Singapore	
+9V-SLA	246	Airbus	320-200	N	Silk Air	HE	Singapore	
+VT-ANV	247	Boeing	787-8	W	Air India	NG	India	
+PH-BVN	248	Boeing	777-300ER	W	KLM	GJ	Netherlands	Revised livery
+9V-STF	249	Airbus	330-300	W	Singapore Airlines	AC	Singapore	
+CUSTOM	250	Airbus	330-200	W	Wamos Air (custom)	JC	Spain	Custom
+ZK-OJB	251	Airbus	320-200	N	Air New Zealand	AC	New Zealand	
+CUSTOM	252	Airbus	320-200	N	Solomon Airlines	AC	Solomon Islands	Custom
+9M-LRD	253	Boeing	737-8MAX	N	Batik Air Malaysia	PANDA	Malaysia	
+ZK-NBV	254	Boeing	747-400	W	Air New Zealand	DW	New Zealand	
+RP-C7473	255	Boeing	747-400	W	Philippine Airlines	GJ	Philippines	
+NZ7571	256	Boeing	757-200	N	Royal New Zealand Air Force	JC	New Zealand	
+RP-C8168	257	Boeing	747-400	W	Philippine Airlines	AC	Philippines	
+RP-C5745 	258	Boeing	747-200	W	Philippine Airlines	AC	Philippines	
+B-18357	259	Airbus	330-300	W	China Airlines	PX	Taiwan	
+PK-GRC	260	Airbus	330-300	W	Garuda Indonesia	JC	Indonesia	
+ZK-NNA	261	Airbus	321neo	N	Air New Zealand	NG	New Zealand	
+9M-MNG	262	Airbus	330-900neo	W	Malaysia Airlines	JC	Malaysia	
+HL7204	263	Boeing	777-300ER	W	Korean Air	JC	Korea	
+B-16340	264	Airbus	330-300	W	EVA Air	PX	Taiwan	
+N303AS	265	Boeing	737-900	N	Alaska Airlines	GJ	USA	
+B207N	266	Boeing	787-9	W	Juneyao Airlines	PX	China	
+RP-C7775	267	Boeing	777-300ER	W	Philippine Airlines	WW	Philippines	75th Year Anniversry decal
+HS-TTA	268	Boeing	777-300ER	W	Thai Airways	JC	Thailand	
+JA26LR	269	Airbus	321neo	N	Jetstar Japan	JC	Japan	
+TC-JJS	270	Boeing	777-300ER	W	Turkish Airlines	NG	Turkey	
+D-AIGU	271	Airbus	340-300	W	Lufthansa	PX	Germany	
+ZK-OKC	272	Boeing	777-200ER	W	Air New Zealand	JC	New Zealand	
+RP-C7773	273	Boeing	777-300ER	W	Philippine Airlines	GJ	Philippines	
+HL7701	274	Airbus	330-300	W	Korean Air	PX	Korea	
+B-KJA	275	Boeing	737-800	N	Greater Bay Airlines	AE	Hong Kong	
+HB-IJP	276	Airbus	320-200	N	Swiss International Air Lines	GJ	Switzerland	
+9V-SKZ	277	Airbus	380-800	W	Singapore Airlines	HE	Singapore	
+F-OJSE	278	Airbus	330-200	W	Aircalin	GJ	New Caledonia	
+A6-ETA	279	Boeing	777-300ER	W	Etihad	PX	UAE	
+N781AN	280	Boeing	777-200ER	W	American Airlines	GJ	USA	
+HL7460	281	Boeing	747-400	W	Korean Air	PX	Korea	
+PI-C772	282	Vickers	Viscount	N	Philippine Airlines	AC	Philippines	
+4R-ALJ 	283	Airbus	330-200	W	Sri Lankan	NG	Sri Lanka	
+A7-ANA	284	Airbus	350-1000	W	Qatar Airways	AV400	Qatar	
+HS-TMG	285	Boeing	MD11	W	Thai Airways	PX	Thailand	
+RP-C4113	286	Airbus	321-200	N	Cebu Pacific	PX	Philippines	
+HS-TBG	287	Airbus	330-300	W	Thai Airways	PX	Thailand	
+ZK-NCI	288	Boeing	767-300	W	Air New Zealand	PX	New Zealand	
+B-18053	289	Boeing	777-300ER	W	China Airlines	PX	Taiwan	
+N872CB	290	Boeing	737-8MAX	N	Southwest Airlines	NG	USA	
+N780HA	291	Boeing	787-9	W	Hawaiian Airlines	AV400	USA	
+9M-MRD	292	Boeing	777-200ER	W	Malaysia Airlines	JC	Malaysia	Freedom of Space
+9M-MPD	293	Boeing	747-400	W	Malaysia Airlines	PX	Malaysia	Hibiscus Livery
+PH-PRI	294	Fokker	50	N	Philippine Airlines	JC	Philippines	
+RP-C1536	295	Boeing	DC9	N	Cebu Pacific	AC	Philippines	Centennial Livery
+B-7882	296	Boeing	777-300ER	W	China Eastern	PX	China	
+B-1113	297	Boeing	787-9	W	Shanghai Airlines	PX	China	
+F-HUVJ	298	Airbus	350-900	W	Air France	AV400	France	
+B-MCA	299	Airbus	321-200	N	Air Macau	PX	Macau	
+VH-OGV	300	Boeing	767-300	W	Qantas	BB400	Australia	
+ZK-OKB	301	Boeing	777-200ER	W	Air New Zealand	GJ	New Zealand	Pacific Wave Livery
+ZK-OKP	302	Boeing	777-300ER	W	Air New Zealand	JC	New Zealand	The Hobbit
+ZK-NCH	303	Boeing	767-300	W	Air New Zealand	DW	New Zealand	
+ZS-SAX	304	Boeing	747-400	W	South African Airways	DW	South Africa	
+DQ-FJW	305	Airbus	330-300	W	Fiji Airways	PX	Fiji	
+B-LAJ	306	Airbus	330-300	W	Cathay Pacific	AC	Hong Kong	
+9V-SCM	307	Boeing	787-10	W	Singapore Airlines	JC	Singapore	
+9V-SWZ	308	Boeing	777-300ER	W	Singapore Airlines	JC	Singapore	
+VH-8IA	309	Boeing	737-8MAX	N	Virgin Australia	PX	Australia	
+9M-VAC	310	Airbus	321neo	N	AirAsia	PANDA	Malaysia	
+D-ABYA	311	Boeing	747-8i	W	Lufthansa	NG	Germany	
+VH-A5A	312	Airbus	320neo	N	Jetstar	NG	Australia	
+RP-C1535	313	Boeing	DC9	N	Cebu Pacific	TU	Philippines	City of Zamboanga
+RP-C1540	314	Boeing	DC9	N	Cebu Pacific	TU	Philippines	City of Davao
+RP-C7280	315	Airbus	72-500/600	N	Cebu Pacific	GJ	Philippines	
+ZK-MCY	316	Airbus	72-500/600	N	Air New Zealand Link - Mount Cook Airlines	JC	New Zealand	
+VH-QPC	317	Airbus	330-300	W	Qantas	PX	Australia	
+VR-HOP	318	Boeing	747-400	W	Cathay Pacific	GJ	Hong Kong	Lettuce Leaf Livery
+RP-C3017	319	DHC	Q300	N	Philippine Airlines	3D	Philippines	
+VH-OGA	320	Airbus	321neo	N	Qantas	PX	Australia	
+HL8254	321	Boeing	777-200ER	W	Asiana	NG	Korea	
+B-17887	322	Boeing	787-9	W	EVA Air	NG	Taiwan	
+B-LRT	323	Airbus	350-900	W	Cathay Pacific	PX	Hong Kong	
+A6-BLA	324	Boeing	787-9	W	Etihad	PX	UAE	
+PI-C516 	325	Fokker	27	N	Philippine Airlines	AC	Philippines	
+B-302E	326	Airbus	330-300	W	Shenzhen Airlines	PX	China	
+VT-RTN	327	Airbus	320neo	N	Air India	PX	India	
+VN-A652	328	Airbus	321neo	N	Vietjet Air	GJ	Vietnam	
+B-16740	329	Boeing	777-300ER	W	EVA AIr	NG	Taiwan	Jolly Jet
+9M-MVA	330	Boeing	737-8MAX	N	Malaysia Airlines	NG	Malaysia	
+PI-C1121	331	BAC	111	N	Philippine Airlines	AC	Philippines	
+RP-C1024	332	Hawker-Siddeley	748	N	Philippine Airlines	AC	Philippines	
+VN-A811	333	Airbus	330-300	W	Vietjet Air	GJ	Vietnam	
+ZK-NGD	334	Boeing	737-300	N	Air New Zealand	JC	New Zealand	
+CUSTOM	335	Boeing	737-200	N	Air Philippines	AC	Philippines	Custom
+VH-VZW	336	Boeing	737-800	N	Qantas	GJ	Australia	
+9V-SMU	337	Boeing	747-400	W	Singapore Airlines	YY	Singapore	
+N661US	338	Boeing	747-400	W	Northwest Airlines	DW	USA	
+NO REG	339	Pilatus	PC-12	N	Sounds Air	CUS	New Zealand	
+ZK-OKQ	340	Boeing	777-300ER	W	Air New Zealand	WW	New Zealand	Crazy About Rugby
+VH-HYY	341	Airbus	320-200	N	Ansett Australia	GJ	Australia	
+VH-VUN	342	Boeing	737-800	N	Pacific Blue Airlines	PX	New Zealand	
+DQ-FJH	343	Boeing	737-800	N	Air Pacific	GJ	Fiji	
+V8-DLA	344	Boeing	787-8	W	Royal Brunei	PX	Brunei	
+HL8081	345	Boeing	787-9	W	Korean Air	PX	Korea	
+OH-LWS	346	Airbus	350-900	W	Finnair	JC	Finland	
+ZK-OKO	347	Boeing	777-300ER	W	Air New Zealand	PX	New Zealand	Pacific Wave Livery
+ZK-OKU	348	Boeing	777-300ER	W	Air New Zealand	JC	New Zealand	Albino
+ZK-SUH	349	Boeing	747-400	W	Air New Zealand	PX	New Zealand	
+RP-C3510	350	Airbus	350-1000	W	Philippine Airlines	NG	Philippines	85th Anniversary Decal
+G-ZBKL	351	Boeing	787-9	W	British Airways	PX	UK	
+B-209Y	352	Boeing	777-300ER	W	China Southern	PX	China	
+HS-TOB	353	Airbus	321neo	N	Thai Airways	PX	Thailand	
+RP-C3512	354	Airbus	350-1000	W	Philippine Airlines	AV400	Philippines	
+RP-C3911	355	Airbus	330-900neo	W	Cebu Pacific	AV400	Philippines	
+B-1205	356	Boeing	737-8MAX	N	China Southern	PX	China	
+G-XWBS	357	Airbus	350-1000	W	British Airways	PX	UK	
+9M-AQN	358	Airbus	320-200	N	AirAsia	PX	Malaysia	
+ZK-OAB	359	Airbus	320-200	N	Air New Zealand	DW	New Zealand	Crazy About Rugby
+ZK-OKQ	360	Boeing	777-300ER	W	Air New Zealand	WW	New Zealand	Crazy About Rugby
+HZ-RXAA	361	Boeing	787-9	W	Riyadh Air	AV400	Saudi Arabia	
+9V-MBA 	362	Boeing	737-8MAX	N	Singapore Airlines	JC	Singapore	
+HZ-AK28	363	Boeing	777-300ER	W	Saudi Arabian	PX	Saudi Arabia	
+RP-C1508	364	Boeing	DC9	N	Cebu Pacific	AC	Philippines	
+B-HPB	365	Airbus	321neo	N	Cathay Pacific	PANDA	Hong Kong	
+RP-C3003	366	Airbus	300B4	W	Philippine Airlines	AC	Philippines	
+PS-LAA	SKIP	Boeing	787-9	W	LATAM	PX	Brazil	
