@@ -1,0 +1,20 @@
+	Registration	Old ID								
+1	NO REG	3	Boeing	737-300	N	SAMA		Odd scale, plastic		replaced with Air Niugini B737-800 (Panda)
+2	NO REG	82	Airbus	330-200	W	KLM		Odd scale, plastic		replaced with Philippine Airlines B737-400 (Mm)
+3	NO REG	77	Boeing	747-100	W	PANAM		Odd scale		replaced with Philippine Airlines 727-100 (AC)
+4	N777PR	51	Boeing	777-300ER	W	Philippine Airlines 	GJ	fantasy. Sold		replaced with Philippine Airlines 777-300ER (AV400)
+5	RP-C7777	19	Boeing	777-300ER	W	Philippine Airlines	PPC	1:500 scale, missing		
+6	NO REG	85	Boeing	777-300ER	W	Air New Zealand	IF	Odd scale, sttored		replaced with Air New Zealand 777-300ER Smaug (JCW)
+										
+										
+	Duplicates - May retire (to be put for sale)									
+7	V8-DLA	223	Boeing	787-8	W	Royal Brunei	HO	Replacement acquired		replaced with Royal Brunei B787-8 (PX) V8-DLA (#344)
+8	HL8082	148	Boeing	787-9	W	Korean Air	PX	Replacement acquired		replaced with Korean Air B787-9 (PX) HL8081 (#345)
+9	PS-LAA	106	Boeing	787-9	W	LATAM	PX	Replacement acquired		replaced with LATAM B787-9 (GJ) CC-BGM - assumed #106, old is floating
+10	N802AN	145	Boeing	787-8	W	American Airlines	GJ	Planned		replace B787-8 with B787-9
+11	C-GHPQ	134	Boeing	787-8	W	Air Canada	GJ	Planned		replace B787-8 with B787-9
+12	9V-OJA	156	Boeing	787-9	W	Scoot	PX	Planned		duplicate - damaged window
+13	VH-VKA	184	Boeing	787-8	W	Jetstar	AP	Planned		duplicate - odd mould
+14	JA861J	209	Boeing	787-9	W	JAL Japan Airlines	AG	Planned		replace B787-9 with 787-8
+15	VN-A818	167	Boeing	787-9	W	Bamboo Airways	GJ	Planned		defunct - unwanted
+16	WRITTEN OFF	158	Boeing	737-800	N	Air Niugini	DW	No replacement		Fill spot
