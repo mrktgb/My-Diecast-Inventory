@@ -368,13 +368,18 @@ HB-IWH	367	Boeing	MD11	W	Swissair	PX	Switzerland
 B-18771	368	Boeing	777F	W	China Airlines Cargo	GJ	Taiwan
 9V-SQO	369	Boeing	747-200	W	Singapore Airlines	JC	Singapore
 B-58301  370  Airbus  330-900neo  W  Starlux  PX  Taiwan
-371- (Hainan Airlines)
-372 -(AirAisa Philippines)
-373-(AirAsia Indonesia)
-374-(Mandarin Airlines)
-375-(Juneyao Airlines)
-376-(Austrian Airlines)
-377-(El AL Airlines)
+OE-LPF 371  Boeing  777-200ER  W  Austrian Airlines GJ Austria
+G-BNLY  372  Boeing  747-400  W  British Airwars GJ UK 
+G-VXWB  373  Airbus  350-1000  W  Virgin Atlantic  GJ  UK
+VH-VOZ  374  Boeing  777-300ER  W  Virgin Australia  GJ  Australia
+C-GTSN  375  Airbus  330-200  W  AirTransat  GJ  Canada
+376- (Hainan Airlines)
+377 -(AirAisa Philippines)
+378-(AirAsia Indonesia)
+379-(Mandarin Airlines)
+380-(Juneyao Airlines)
+381-(Austrian Airlines)
+382-(El AL Airlines)
 PS-LAA	SKIP	Boeing	787-9	W	LATAM	PX	Brazil	
 
 Backburner
