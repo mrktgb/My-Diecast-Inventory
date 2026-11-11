@@ -372,22 +372,23 @@ G-BNLY  371  Boeing  747-400  W  British Airwars GJ UK
 G-VXWB  372  Airbus  350-1000  W  Virgin Atlantic  GJ  UK
 VH-VOZ  373  Boeing  777-300ER  W  Virgin Australia  GJ  Australia
 C-GTSN  374  Airbus  330-200  W  AirTransat  GJ  Canada
-375 - (British Airways)
-B-58301  376  Airbus  330-900neo  W  Starlux  PX  Taiwan
-377- (Hainan Airlines)
-378 -(AirAisa Philippines)
-379-(AirAsia Indonesia)
-380-(Mandarin Airlines)
-381-(Juneyao Airlines)
-382-(Austrian Airlines)
-383-(El AL Airlines)
-384-(Air New Zealand)
-385-(Cebu Pacific)
-PS-LAA	SKIP	Boeing	787-9	W	LATAM	PX	Brazil	
+B-58301  375  Airbus  330-900neo  W  Starlux  PX  Taiwan
+B-20AL	376	Boeing	787-9	Hainan Airlines  PX China
+PS-LAA	SKIP (377)	Boeing	787-9	W	LATAM	PX	Brazil
+377 -(Hong Kong Airlines A330-300)
+378 -(AirAisa Philippines A320)
+379-(AirAsia Indonesia A320)
+380-(Mandarin Airlines B737-800)
+381-(Juneyao Airlines A321neo )
+382-(Austrian Airlines B777-200ER or B787-9)
+383-(El AL Airlines B777-200ER)
+384-(Air New Zealand A320 All Black)
+385-(Cebu Pacific A339 Dreamer)
+
+
 
 Backburner
 B777-300ER Emirates (new livery)
-A320 Air New Zealand (All Black) -preorder
 
 Hunting
 A321neo Jetstar
@@ -395,14 +396,12 @@ A330-200 Qantas (current livery)
 A320 AirAsia Taylor Swift
 
 Wishlist
-A330-300 Hong Kong Airlines (new Livery)
 A320neo Cebu Pacific
 A321neo Cebu Pacific Dreamer
-A330-900neo Cebu Pacific Dreamer
 A319 Cebu Pacific
 A320 AeroK
 A320 Seaair
-B787-9 Saudia (retro)
+B787-9/10 Saudia (retro)
 
 Maybe
 B737-800 Air Changan
@@ -410,3 +409,8 @@ A321neo China Airlines
 A320 Qingdao Airlnes
 A320  AirAsia Cambodia
 B787-9 KLM
+B787-9 Air India
+B777-300ER Emirates
+A350-900 Emirates
+B777-9 Emirates
+A350-900 Aircalin
